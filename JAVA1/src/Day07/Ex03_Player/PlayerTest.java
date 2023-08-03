@@ -1,4 +1,4 @@
-package Ex03_Player;
+package Day07.Ex03_Player;
 
 public class PlayerTest {
 	public static void main(String[] args) {

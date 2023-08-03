@@ -1,4 +1,4 @@
-package Ex04_interface;
+package Day07.Ex04_interface;
 //인터페이스 구현 키워드 : implements
 public class Television implements RemoteControl {
 	//변수

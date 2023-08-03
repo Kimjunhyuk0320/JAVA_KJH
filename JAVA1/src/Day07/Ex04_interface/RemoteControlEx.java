@@ -1,4 +1,4 @@
-package Ex04_interface;
+package Day07.Ex04_interface;
 
 public class RemoteControlEx {
 	
